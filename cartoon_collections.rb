@@ -9,7 +9,7 @@ def summon_captain_planet(planeteers)
 end
   
 
-def long_planeteer_calls(long)
+def long_planeteer_calls(calls)
   
 end
 
